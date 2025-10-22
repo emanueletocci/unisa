@@ -41,7 +41,7 @@ Hai materiale utile o vuoi migliorare i contenuti? Ogni contributo è ben accett
 
 Se questo progetto ti è stato utile, **lascia una ⭐️ alla repository** per supportarlo!  
 
-![Thank You GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Thank You GIF]([https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejdpZHV6amo3aWRteXJjbTU2NWF4c3djMjR6bGV2Z2xueDZwc2w4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CY3A9zOlZR8uhFbeok/giphy.gif))
 
 ---
 
