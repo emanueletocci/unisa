@@ -6,8 +6,7 @@
 
 ⚠️ **Attenzione!**  
 Questa repository **non costituisce una fonte ufficiale**. I materiali presenti provengono da appunti personali e raccolte di studio e **non sono stati revisionati da docenti**.  
-Potrebbero quindi contenere errori o imprecisioni. Tale materiale non va inteso come sostituto del libro di testo! Si tratta di un semplice supporto che puó tornare utile in situazioni di difficoltá.
-Si consiglia di **verificare sempre le informazioni** e di segnalare eventuali correzioni. L’utilizzo dei contenuti avviene **sotto la propria responsabilità**.
+Potrebbero quindi contenere errori o imprecisioni. Si consiglia di **verificare sempre le informazioni** e di segnalare eventuali correzioni. L’utilizzo dei contenuti avviene **sotto la propria responsabilità**.
 
 
 ---
