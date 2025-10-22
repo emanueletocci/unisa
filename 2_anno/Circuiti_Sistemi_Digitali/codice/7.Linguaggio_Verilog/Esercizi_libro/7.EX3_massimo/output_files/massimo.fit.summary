@@ -1,0 +1,16 @@
+Fitter Status : Successful - Mon Jul 22 16:28:03 2024
+Quartus Prime Version : 22.1std.0 Build 915 10/25/2022 SC Lite Edition
+Revision Name : massimo
+Top-level Entity Name : massimo
+Family : Cyclone IV E
+Device : EP4CE6F17A7
+Timing Models : Final
+Total logic elements : 7 / 6,272 ( < 1 % )
+    Total combinational functions : 7 / 6,272 ( < 1 % )
+    Dedicated logic registers : 0 / 6,272 ( 0 % )
+Total registers : 0
+Total pins : 12 / 180 ( 7 % )
+Total virtual pins : 0
+Total memory bits : 0 / 276,480 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )

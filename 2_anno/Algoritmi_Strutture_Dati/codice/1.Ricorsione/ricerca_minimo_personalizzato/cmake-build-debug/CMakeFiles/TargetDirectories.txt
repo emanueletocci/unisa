@@ -1,0 +1,3 @@
+/home/emanueletocci/Documents/ClionProjects/Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/CMakeFiles/ricerca_minimo_personalizzato.dir
+/home/emanueletocci/Documents/ClionProjects/Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/emanueletocci/Documents/ClionProjects/Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+sealed.Triangolo
+sealed.Forma

@@ -1,0 +1,7 @@
+module coderDEBO (b, Dig, Y, H);
+	input wire [5:0] b;
+	output wire H;
+	output wire Dig [3:0];
+	output reg Y [6:0];
+	
+endmodule

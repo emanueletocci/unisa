@@ -1,0 +1,3 @@
+/home/emanueletocci/Documents/ClionProjects/Esercitazioni/Ex_022/cmake-build-debug/CMakeFiles/Ex_022.dir
+/home/emanueletocci/Documents/ClionProjects/Esercitazioni/Ex_022/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/emanueletocci/Documents/ClionProjects/Esercitazioni/Ex_022/cmake-build-debug/CMakeFiles/rebuild_cache.dir

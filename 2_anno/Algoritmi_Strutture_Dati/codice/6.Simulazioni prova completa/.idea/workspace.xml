@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="135c6022-4073-4992-ad6d-6a153e38fd4b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Esercitazioni/Midterm1/TArray.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esercitazioni/Midterm1/TArray.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esercitazioni/Midterm1/TInfo.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esercitazioni/Midterm1/TInfo.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esercitazioni/Midterm1/TList.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esercitazioni/Midterm1/TList.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esercitazioni/Midterm1/TQueue.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esercitazioni/Midterm1/TQueue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esercitazioni/Midterm1/TStack.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esercitazioni/Midterm1/TStack.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esercitazioni/Midterm2/TArray.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esercitazioni/Midterm2/TArray.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esercitazioni/Midterm2/TInfo.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esercitazioni/Midterm2/TInfo.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esercitazioni/Midterm2/TList.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esercitazioni/Midterm2/TList.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esercitazioni/Midterm2/TQueue.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esercitazioni/Midterm2/TQueue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esercitazioni/Midterm2/TStack.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esercitazioni/Midterm2/TStack.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esercitazioni/cancellazione_duplicati_BST/TBST.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esercitazioni/cancellazione_duplicati_BST/TBST.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esercitazioni/cancellazione_duplicati_BST/TInfo.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esercitazioni/cancellazione_duplicati_BST/TInfo.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_1_drive/TArray.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_1_drive/TArray.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_1_drive/TBST.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_1_drive/TBST.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_1_drive/THT.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_1_drive/THT.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_1_drive/TInfo.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_1_drive/TInfo.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_1_drive/TList.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_1_drive/TList.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_nuovi_headers/TArray.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_nuovi_headers/TArray.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_nuovi_headers/TBST.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_nuovi_headers/TBST.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_nuovi_headers/THT.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_nuovi_headers/THT.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_nuovi_headers/TInfo.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_nuovi_headers/TInfo.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_nuovi_headers/TList.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_nuovi_headers/TList.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercitazioni/Esercitazione_Array_Dinamici/.dep.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercitazioni/Esercitazione_Array_Dinamici/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercitazioni/Esercitazione_Array_Dinamici/TArray.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercitazioni/Esercitazione_Array_Dinamici/TArray.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercitazioni/Esercitazione_Array_Dinamici/TInfo.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercitazioni/Esercitazione_Array_Dinamici/TInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercitazioni/Esercitazione_Array_Dinamici/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercitazioni/Esercitazione_Array_Dinamici/nbproject/Makefile-Debug.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercitazioni/Esercitazione_Array_Dinamici/nbproject/Makefile-Release.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercitazioni/Esercitazione_Array_Dinamici/nbproject/Makefile-impl.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercitazioni/Esercitazione_Array_Dinamici/nbproject/Makefile-variables.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercitazioni/Esercitazione_Array_Dinamici/nbproject/Package-Debug.bash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercitazioni/Esercitazione_Array_Dinamici/nbproject/Package-Release.bash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercitazioni/Esercitazione_Array_Dinamici/nbproject/configurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercitazioni/Esercitazione_Array_Dinamici/nbproject/private/Makefile-variables.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercitazioni/Esercitazione_Array_Dinamici/nbproject/private/c_standard_headers_indexer.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercitazioni/Esercitazione_Array_Dinamici/nbproject/private/configurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercitazioni/Esercitazione_Array_Dinamici/nbproject/private/cpp_standard_headers_indexer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercitazioni/Esercitazione_Array_Dinamici/nbproject/private/launcher.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercitazioni/Esercitazione_Array_Dinamici/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercitazioni/Esercitazione_Array_Dinamici/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/.idea/Ricorsione.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/.idea/FIbonacci'.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/.cmake/api/v1/reply/cache-v2-cb96745ecfe0d56f9ea9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-6db1d73417ecc1256654.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-68c2c632dfef4d621edd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/.cmake/api/v1/reply/index-2023-10-02T16-01-07-0429.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/.cmake/api/v1/reply/target-FIbonacci_-Debug-49835e761fd0516bfb86.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-ab6bc179ddbddbdb0d31.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/CMakeFiles/FIbonacci_.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/FIbonacci_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/FIbonacci'/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/.idea/Hanoi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/.cmake/api/v1/reply/cache-v2-1c66b167e9ad9e9217f8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-11b67f35ac065a3dab7e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-f8a59f5e8af34a331cd7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/.cmake/api/v1/reply/index-2023-10-04T16-19-22-0872.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/.cmake/api/v1/reply/target-Hanoi-Debug-e03c85ca25cbfd37d241.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-ab6bc179ddbddbdb0d31.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/CMakeFiles/Hanoi.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/Hanoi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Hanoi/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/.idea/MCD.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/.cmake/api/v1/reply/cache-v2-d25c823bbf18e47f6fc9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-c4393b22edbdfc30c544.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-35aae3db54d3340e4b4e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/.cmake/api/v1/reply/index-2023-10-16T19-53-48-0613.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/.cmake/api/v1/reply/target-MCD-Debug-dbe69ad99ddd1bee3521.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-ab6bc179ddbddbdb0d31.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/CMakeFiles/MCD.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/MCD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/MCD/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/.idea/Ricerca_minimo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/.cmake/api/v1/reply/cache-v2-db24a5ec037fc99982ab.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-195dcef9b6eda40ec67c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-81c3fb7712fb942fc27b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/.cmake/api/v1/reply/index-2023-10-11T16-32-07-0785.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/.cmake/api/v1/reply/target-Ricerca_minimo-Debug-766f7cf7940558062648.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-ab6bc179ddbddbdb0d31.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/CMakeFiles/Ricerca_minimo.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/Ricerca_minimo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/Ricerca_minimo/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/.idea/fattoriale.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/.cmake/api/v1/reply/cache-v2-d10bbdc6eddf2bd0093d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-c8422b32be7721b745cd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-871af3cf71bff8dca355.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/.cmake/api/v1/reply/index-2023-10-02T15-46-39-0844.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/.cmake/api/v1/reply/target-fattoriale-Debug-eaa59a8263d67b3cf481.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-ab6bc179ddbddbdb0d31.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/CMakeFiles/fattoriale.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/cmake-build-debug/fattoriale" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/fattoriale/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/.idea/ricerca_minimo_personalizzato.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/.cmake/api/v1/reply/cache-v2-66a70f2150786a4d4ed6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-137e7ea25513b79b2abd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-45ed388f3609fad4a8f3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/.cmake/api/v1/reply/index-2023-10-11T19-11-18-0125.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/.cmake/api/v1/reply/target-ricerca_minimo_personalizzato-Debug-5dc602172311cc9a17fe.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-ab6bc179ddbddbdb0d31.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/CMakeFiles/ricerca_minimo_personalizzato.dir/generic.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/CMakeFiles/ricerca_minimo_personalizzato.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug/ricerca_minimo_personalizzato" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/generic.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/generic.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ricorsione/ricerca_minimo_personalizzato/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2bRx7tiWKZiB1IRF1LFAYe9HCzI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/emanueletocci/Documents/ClionProjects/Simulazione prova completa/2021_02_11-Prova-esame",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="135c6022-4073-4992-ad6d-6a153e38fd4b" name="Changes" comment="" />
+      <created>1706191528106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706191528106</updated>
+      <workItem from="1706191529106" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

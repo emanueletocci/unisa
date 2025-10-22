@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="3_MyStudentList.jnlp">
+  <information>
+    <title>3_MyStudentList</title>
+    <vendor>emanueletocci</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="3_MyStudentList.jar" size="4668" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="pkg3_mystudentlist.Main"  name="3_MyStudentList" />
+  <update check="always"/>
+</jnlp>

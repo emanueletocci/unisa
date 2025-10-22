@@ -1,0 +1,9 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -vlog01compat -work work +incdir+/home/ubuntu/Documents/GitHub/uni-circuiti/quartus_projects/gluelogic {/home/ubuntu/Documents/GitHub/uni-circuiti/quartus_projects/gluelogic/Glue_logic.v}
+

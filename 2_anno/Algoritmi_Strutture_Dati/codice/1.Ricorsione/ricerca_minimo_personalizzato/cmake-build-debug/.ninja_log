@@ -1,0 +1,8 @@
+# ninja log v5
+0	10	1697051498955469450	CMakeFiles/ricerca_minimo_personalizzato.dir/main.c.o	d78a27f07356bdc5
+0	10	1697051528091912790	CMakeFiles/ricerca_minimo_personalizzato.dir/main.c.o	d78a27f07356bdc5
+0	9	1697051560692408837	CMakeFiles/ricerca_minimo_personalizzato.dir/main.c.o	d78a27f07356bdc5
+0	11	1697051560692408837	CMakeFiles/ricerca_minimo_personalizzato.dir/generic.c.o	c4a04376af939d89
+11	21	1697051560704409021	ricerca_minimo_personalizzato	b7cc67ba74d6a50c
+0	20	1697051652513806009	CMakeFiles/ricerca_minimo_personalizzato.dir/main.c.o	d78a27f07356bdc5
+20	30	1697051652529806253	ricerca_minimo_personalizzato	b7cc67ba74d6a50c

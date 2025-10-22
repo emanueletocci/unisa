@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2021.2 2021.04, Apr 14 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/ubuntu/Documents/GitHub/uni-circuiti/quartus_projects/gluelogic/simulation/questa
+vGlue_logic
+Z1 !s110 1721581520
+!i10b 1
+!s100 ?GgLWb<k4z_0F_COOV9112
+I_6gm7hJ47oTM:lAG7H2TB2
+R0
+w1721580877
+8/home/ubuntu/Documents/GitHub/uni-circuiti/quartus_projects/gluelogic/Glue_logic.v
+F/home/ubuntu/Documents/GitHub/uni-circuiti/quartus_projects/gluelogic/Glue_logic.v
+!i122 0
+L0 1 19
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OL;L;2021.2;73
+r1
+!s85 0
+31
+Z4 !s108 1721581520.000000
+!s107 /home/ubuntu/Documents/GitHub/uni-circuiti/quartus_projects/gluelogic/Glue_logic.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ubuntu/Documents/GitHub/uni-circuiti/quartus_projects/gluelogic|/home/ubuntu/Documents/GitHub/uni-circuiti/quartus_projects/gluelogic/Glue_logic.v|
+!i113 0
+Z5 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 !s92 -vlog01compat -work work +incdir+/home/ubuntu/Documents/GitHub/uni-circuiti/quartus_projects/gluelogic -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 tCvgOpt 0
+n@glue_logic
+vtb_Glue_logic
+R1
+!i10b 1
+!s100 dPM3fD[gRUSNV]?lLjcW[1
+I@[]D2KTdf;z@R8SZ7mCB33
+R0
+w1721581112
+8/home/ubuntu/Documents/GitHub/uni-circuiti/quartus_projects/gluelogic/tb_gluelogic.v
+F/home/ubuntu/Documents/GitHub/uni-circuiti/quartus_projects/gluelogic/tb_gluelogic.v
+!i122 1
+L0 2 22
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/ubuntu/Documents/GitHub/uni-circuiti/quartus_projects/gluelogic/tb_gluelogic.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ubuntu/Documents/GitHub/uni-circuiti/quartus_projects/gluelogic|/home/ubuntu/Documents/GitHub/uni-circuiti/quartus_projects/gluelogic/tb_gluelogic.v|
+!i113 0
+R5
+R6
+R7
+ntb_@glue_logic

@@ -1,0 +1,52 @@
+#! /usr/bin/vvp
+:ivl_version "12.0 (stable)";
+:ivl_delay_selection "TYPICAL";
+:vpi_time_precision + 0;
+:vpi_module "/usr/lib64/ivl/system.vpi";
+:vpi_module "/usr/lib64/ivl/vhdl_sys.vpi";
+:vpi_module "/usr/lib64/ivl/vhdl_textio.vpi";
+:vpi_module "/usr/lib64/ivl/v2005_math.vpi";
+:vpi_module "/usr/lib64/ivl/va_math.vpi";
+S_0x564d775c3550 .scope module, "sregRsync1_8" "sregRsync1_8" 2 3;
+ .timescale 0 0;
+    .port_info 0 /INPUT 1 "d";
+    .port_info 1 /INPUT 1 "clk";
+    .port_info 2 /INPUT 1 "r";
+    .port_info 3 /OUTPUT 8 "q";
+o0x7fc64d7ae018 .functor BUFZ 1, C4<z>; HiZ drive
+v0x564d775c4f60_0 .net "clk", 0 0, o0x7fc64d7ae018;  0 drivers
+o0x7fc64d7ae048 .functor BUFZ 1, C4<z>; HiZ drive
+v0x564d7760afc0_0 .net "d", 0 0, o0x7fc64d7ae048;  0 drivers
+v0x564d7760b080_0 .var "q", 7 0;
+o0x7fc64d7ae0a8 .functor BUFZ 1, C4<z>; HiZ drive
+v0x564d7760b170_0 .net "r", 0 0, o0x7fc64d7ae0a8;  0 drivers
+E_0x564d775c3c00 .event anyedge, v0x564d775c4f60_0;
+    .scope S_0x564d775c3550;
+T_0 ;
+    %wait E_0x564d775c3c00;
+    %load/vec4 v0x564d7760b170_0;
+    %flag_set/vec4 8;
+    %jmp/0xz  T_0.0, 8;
+    %pushi/vec4 0, 0, 8;
+    %assign/vec4 v0x564d7760b080_0, 0;
+    %jmp T_0.1;
+T_0.0 ;
+    %load/vec4 v0x564d7760b080_0;
+    %parti/s 7, 1, 2;
+    %ix/load 4, 0, 0;
+    %ix/load 5, 0, 0;
+    %flag_set/imm 4, 0;
+    %assign/vec4/off/d v0x564d7760b080_0, 4, 5;
+    %load/vec4 v0x564d7760afc0_0;
+    %ix/load 4, 7, 0;
+    %ix/load 5, 0, 0;
+    %flag_set/imm 4, 0;
+    %assign/vec4/off/d v0x564d7760b080_0, 4, 5;
+T_0.1 ;
+    %jmp T_0;
+    .thread T_0, $push;
+# The file index is used to find the file name in the following table.
+:file_names 3;
+    "N/A";
+    "<interactive>";
+    "11.SReg_Rsincrono.v";

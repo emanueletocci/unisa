@@ -1,0 +1,16 @@
+# ninja log v5
+1	19	1705493985331940134	CMakeFiles/2021_02_11_prova_esame_cp.dir/TList.c.o	c21f8c168fa78c9e
+24	38	1706114691424707716	2021_02_11_prova_esame_cp	4fc33d1e730d98e4
+1	19	1705493985331940134	CMakeFiles/2021_02_11_prova_esame_cp.dir/TArray.c.o	ff64c0a6ab12ff95
+0	18	1706191560538653697	build.ninja	cb0beed03c44d335
+1	19	1705493985331940134	CMakeFiles/2021_02_11_prova_esame_cp.dir/TInfo.c.o	49260ff89c8f9b46
+0	25	1705506472023228113	CMakeFiles/2021_02_11_prova_esame_cp.dir/TBST.c.o	3f2c7eea172f4249
+1	20	1705493985331940134	CMakeFiles/2021_02_11_prova_esame_cp.dir/THT.c.o	2653738ebcbafcdf
+0	24	1706114691404707422	CMakeFiles/2021_02_11_prova_esame_cp.dir/main.c.o	4c31f65c7d1125c0
+0	34	1706562529172024140	CMakeFiles/2021_02_11_prova_esame_cp.dir/TInfo.c.o	294dba6b50064039
+0	34	1706562529172024140	CMakeFiles/2021_02_11_prova_esame_cp.dir/TArray.c.o	c9d20e8b0a5331ac
+0	35	1706562529172024140	CMakeFiles/2021_02_11_prova_esame_cp.dir/THT.c.o	97de4a58c0efd43
+0	35	1706562529172024140	CMakeFiles/2021_02_11_prova_esame_cp.dir/TList.c.o	d28b89f4a90882ce
+0	35	1706562529172024140	CMakeFiles/2021_02_11_prova_esame_cp.dir/TBST.c.o	85f1f8f45cb58352
+0	35	1706562529172024140	CMakeFiles/2021_02_11_prova_esame_cp.dir/main.c.o	3122c1f2b8e936df
+35	57	1706562529192024424	2021_02_11_prova_esame_cp	4fc33d1e730d98e4

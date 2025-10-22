@@ -1,0 +1,3 @@
+/Users/emanueletocci/Documents/ClionProjects/esempio_struct_alunni/cmake-build-debug/CMakeFiles/esempio_struct_alunni.dir
+/Users/emanueletocci/Documents/ClionProjects/esempio_struct_alunni/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/emanueletocci/Documents/ClionProjects/esempio_struct_alunni/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,17 @@
+# ninja log v5
+0	6	1706113699485997774	CMakeFiles/test_nuovi_headers.dir/TList.c.o	785689a6ec041e87
+1	6	1706113699485997774	CMakeFiles/test_nuovi_headers.dir/TArray.c.o	2f886c8e4be8dfcb
+0	6	1706113699489997836	CMakeFiles/test_nuovi_headers.dir/THT.c.o	dfdedfbdd8032cbb
+0	6	1706113699489997836	CMakeFiles/test_nuovi_headers.dir/TInfo.c.o	f846fde78251825e
+0	10	1706113699493997898	CMakeFiles/test_nuovi_headers.dir/main.c.o	97c88a367f8ed915
+0	12	1706113907573189802	CMakeFiles/test_nuovi_headers.dir/TArray.c.o	2f886c8e4be8dfcb
+0	12	1706113907569189744	CMakeFiles/test_nuovi_headers.dir/TInfo.c.o	f846fde78251825e
+0	12	1706113907573189802	CMakeFiles/test_nuovi_headers.dir/THT.c.o	dfdedfbdd8032cbb
+0	23	1706113907589190037	CMakeFiles/test_nuovi_headers.dir/TList.c.o	785689a6ec041e87
+0	24	1706113907589190037	CMakeFiles/test_nuovi_headers.dir/TBST.c.o	288cb33bdfb886f9
+0	17	1706113977646219456	CMakeFiles/test_nuovi_headers.dir/TInfo.c.o	f846fde78251825e
+0	22	1706113977654219573	CMakeFiles/test_nuovi_headers.dir/TArray.c.o	2f886c8e4be8dfcb
+0	23	1706113977654219573	CMakeFiles/test_nuovi_headers.dir/THT.c.o	dfdedfbdd8032cbb
+23	36	1706113977666219749	test_nuovi_headers	7263c4239590959a
+0	16	1706562844164506406	CMakeFiles/test_nuovi_headers.dir/main.c.o	97c88a367f8ed915
+16	29	1706562844176506577	test_nuovi_headers	7263c4239590959a

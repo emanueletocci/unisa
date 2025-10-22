@@ -1,0 +1,55 @@
+Dato il file CSV presente in allegato, che contiene l'elenco degli Agriturismi presenti nella provincia d Napoli, si richiede di:
+
+1.  implementare la classe Agriturismo che ha come attributi i campi indicati nel file CSV. Scegliere per essi un tipo di dato che si ritiene adeguato. Aggiungere inoltre gli attributi booleani pernottamento e camping.
+Predisporre getter e setter per tutti gli attributi.
+
+Ridefinire toString() in modo che la rappresentazione testuale dell'agriturismo sia ad esempio:
+
+***
+AL PLATANO di MORMILE TERESA
+
+LOC. VARIGNANO
+ACERRA
+
+Disponibili camere pernottamento
+
+agriturismoalplatano@libero.it
+
+
+2. implementare la classe ElencoAgriturismi che incapsula una collezione di oggetti Agriturismo e prevede almeno i seguenti metodi:
+
+-  ? aggiungi(Agriturismo a) - aggiunge un agriturismo alla collezione
+
+- ? esporta(...)  - consente di esportare una collezione (insieme) rispetto ad uno specifico attributo (es. insieme dei comuni che ospitano agriturismi) -
+
+- ? filtra (...) - consente di produrre un elenco filtrato secondo un criterio specifico -
+
+- ? ordina(...) - consente di ordinare l'elenco secondo un criterio specifico -
+
+- ? aggiorna(...) - consente di aggiornare l'elenco specificando l'aggiornamento tramite parametro
+
+- ? somma(...) - consente di sommare campi numerici specificando il campo tramite parametro (es. posti macchina complessivi, posti letto complessivi)
+
+-  ?  ElencoAgriturismi carica( String nomefile) - consente di creare un elenco di agriturismi da un file CSV  specificato come parametro
+
+
+Per i metodi esporta, filtra, ordina, aggiorna, somma scegliere un'interfaccia funzionale appropriata come tipo del parametro formale.
+
+Ridefinire toString() in maniera conveniente per la lettura.
+
+E' richiesto di produrre i main TestAgriturismiLambda e TestAgriturismiReference per svolgere, mediante uso esclusivo di espressioni lambda e reference a metodi* rispettivamente, le seguenti operazioni:
+
+- istanziare un ElencoAgriturismi leggendo da file allegato
+
+- aggiornare il valore dell'attributo pernottamento (inizializzato a FALSE durante la lettura) sulla base della disponibilità di posti letto
+
+- aggiornare il valore dell'attributo camping (inizializzato a FALSE durante la lettura) sulla base dei posti tenda/roulotte
+
+- esportare l'elenco dei comuni che ospitano Agriturismi
+
+- ordinare l'elenco alfabeticamente per denominazione azienda
+
+- ottenere il numero di posti letto complessivi disponibili negli agriturismi di Gragnano
+
+
+* scegliere per i reference a metodi un'implementazione conveniente per l'operazione richiesta

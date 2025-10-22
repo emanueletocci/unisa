@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ricerca_minimo_personalizzato",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ricerca_minimo_personalizzato::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ricerca_minimo_personalizzato-Debug-5dc602172311cc9a17fe.json",
+					"name" : "ricerca_minimo_personalizzato",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/emanueletocci/Documents/ClionProjects/Ricorsione/ricerca_minimo_personalizzato/cmake-build-debug",
+		"source" : "/home/emanueletocci/Documents/ClionProjects/Ricorsione/ricerca_minimo_personalizzato"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

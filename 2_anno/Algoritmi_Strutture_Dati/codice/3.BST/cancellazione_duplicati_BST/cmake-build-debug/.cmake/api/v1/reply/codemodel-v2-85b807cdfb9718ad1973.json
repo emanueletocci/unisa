@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cancellazione_duplicati_BST",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cancellazione_duplicati_BST::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cancellazione_duplicati_BST-Debug-4b1e910717413be7074a.json",
+					"name" : "cancellazione_duplicati_BST",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/emanueletocci/Documents/ClionProjects/Esercitazioni/cancellazione_duplicati_BST/cmake-build-debug",
+		"source" : "/home/emanueletocci/Documents/ClionProjects/Esercitazioni/cancellazione_duplicati_BST"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

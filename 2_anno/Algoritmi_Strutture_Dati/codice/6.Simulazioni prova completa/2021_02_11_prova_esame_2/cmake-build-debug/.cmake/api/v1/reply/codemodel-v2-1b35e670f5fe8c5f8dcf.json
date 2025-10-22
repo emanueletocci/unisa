@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2021_02_11_prova_esame_2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2021_02_11_prova_esame_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2021_02_11_prova_esame_2-Debug-6d0e25c2fabceaad0e88.json",
+					"name" : "2021_02_11_prova_esame_2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/emanueletocci/Documents/ClionProjects/Simulazione prova completa/2021_02_11_prova_esame_2/cmake-build-debug",
+		"source" : "/home/emanueletocci/Documents/ClionProjects/Simulazione prova completa/2021_02_11_prova_esame_2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

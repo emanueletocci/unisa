@@ -1,0 +1,57 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "cs_ram[0]",
+					"strict" : false
+				},
+				{
+					"name" : "cs_ram[1]",
+					"strict" : false
+				},
+				{
+					"name" : "cs_ram[2]",
+					"strict" : false
+				},
+				{
+					"name" : "cs_ram[3]",
+					"strict" : false
+				},
+				{
+					"name" : "cs_rom",
+					"strict" : false
+				},
+				{
+					"name" : "cs_vr",
+					"strict" : false
+				},
+				{
+					"name" : "addr[14]",
+					"strict" : false
+				},
+				{
+					"name" : "addr[15]",
+					"strict" : false
+				},
+				{
+					"name" : "addr[16]",
+					"strict" : false
+				},
+				{
+					"name" : "addr[17]",
+					"strict" : false
+				},
+				{
+					"name" : "addr[18]",
+					"strict" : false
+				},
+				{
+					"name" : "addr[19]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

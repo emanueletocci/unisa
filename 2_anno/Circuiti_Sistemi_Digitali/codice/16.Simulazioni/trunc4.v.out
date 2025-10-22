@@ -1,0 +1,22 @@
+#! /usr/bin/vvp
+:ivl_version "12.0 (stable)";
+:ivl_delay_selection "TYPICAL";
+:vpi_time_precision + 0;
+:vpi_module "/usr/lib64/ivl/system.vpi";
+:vpi_module "/usr/lib64/ivl/vhdl_sys.vpi";
+:vpi_module "/usr/lib64/ivl/vhdl_textio.vpi";
+:vpi_module "/usr/lib64/ivl/v2005_math.vpi";
+:vpi_module "/usr/lib64/ivl/va_math.vpi";
+S_0x560b09ab6530 .scope module, "trunc4" "trunc4" 2 5;
+ .timescale 0 0;
+    .port_info 0 /INPUT 9 "Q";
+    .port_info 1 /OUTPUT 5 "Y";
+o0x7fce803de018 .functor BUFZ 9, C4<zzzzzzzzz>; HiZ drive
+v0x560b09ab7f60_0 .net "Q", 8 0, o0x7fce803de018;  0 drivers
+v0x560b09afc730_0 .net "Y", 4 0, L_0x560b09afc870;  1 drivers
+L_0x560b09afc870 .part o0x7fce803de018, 4, 5;
+# The file index is used to find the file name in the following table.
+:file_names 3;
+    "N/A";
+    "<interactive>";
+    "trunc4.v";

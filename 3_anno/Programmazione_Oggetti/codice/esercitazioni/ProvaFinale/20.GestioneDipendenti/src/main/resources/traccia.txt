@@ -1,0 +1,16 @@
+Un'azienda necessita di un sistema per gestire le timbrature dei dipendenti. Realizzare un applicativo per la gestione degli ingressi presso la struttura relativi ad ogni dipendente.
+La classe TimbraturaDipendente deve contenere un reference a Dipendente e data ed orario della timbratura in ingresso. Bisogna prevedere una relazione d'ordine che si basa sulle suddette variabili di istanza. La classe sovrascrive opportunamente il metodo toString() di Object.
+Si consideri già implementata la classe Dipendente - i cui attributi sono Codice Fiscale, Cognome, Nome - con relazione d'ordine naturale basata su Codice Fiscale. Si assumano, inoltre, a disposizione i getter per tutti gli attributi: getNome(), getCognome(), getCodiceFiscale().
+Implementare una classe GestoreTimbrature che incapsuli una opportuna collezione che, dato il Codice Fiscale di un particolare dipendente, consenta il recupero efficiente delle timbrature ordinate per data-ora di ingresso. Tale collezione dovrà, inoltre, permettere di elencare tutte le timbrature rilevate presso l'azienda ordinandole dapprima per dipendente (ordinamento lessicografico rispetto al Codice Fiscale) e poi per data-orario di ingresso.
+La classe, quindi, deve gestire le seguenti operazioni:
+
+Registrare un nuovo ingresso di un dipendente.
+Ricercare e visualizzare le timbrature per un particolare dipendente (identificato dal Codice Fiscale) ordinato per orario di ingresso.
+Visualizzare l'elenco delle timbrature avvenute presso l'azienda ordinato per dipendente (in base all'ordinamento lessicografico del Codice Fiscale) e, per ogni dipendente, per orario di ingresso.
+Esportare su file l'elenco ordinato delle timbrature in ingresso per un determinato dipendente identificato dal Codice Fiscale che darà il nome al file.
+Leggere l'elenco delle accettazioni dal file di esportazione (il nome del file sarà dato dal Codice Fiscale del dipendente).
+
+Importante: Lettura e scrittura da file devono essere gestite come stream binari (NON serializzati).
+Completare le zone contrassegnate con il codice necessario. N.B. Non tutte le parti contrassegnate con i simboli "??" richiedono intervento.
+Per accedere direttamente alla pagina della documentazione di Java 8 usare il seguente URL:
+https://docs.oracle.com/javase/8/docs/api/index.html

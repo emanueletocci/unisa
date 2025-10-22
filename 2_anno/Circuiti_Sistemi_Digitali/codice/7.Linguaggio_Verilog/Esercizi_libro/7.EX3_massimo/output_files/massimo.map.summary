@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Jul 22 16:28:01 2024
+Quartus Prime Version : 22.1std.0 Build 915 10/25/2022 SC Lite Edition
+Revision Name : massimo
+Top-level Entity Name : massimo
+Family : Cyclone IV E
+Total logic elements : 7
+    Total combinational functions : 7
+    Dedicated logic registers : 0
+Total registers : 0
+Total pins : 12
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

@@ -1,0 +1,49 @@
+#! /usr/bin/vvp
+:ivl_version "12.0 (stable)";
+:ivl_delay_selection "TYPICAL";
+:vpi_time_precision + 0;
+:vpi_module "/usr/lib64/ivl/system.vpi";
+:vpi_module "/usr/lib64/ivl/vhdl_sys.vpi";
+:vpi_module "/usr/lib64/ivl/vhdl_textio.vpi";
+:vpi_module "/usr/lib64/ivl/v2005_math.vpi";
+:vpi_module "/usr/lib64/ivl/va_math.vpi";
+S_0x55db60fe8530 .scope module, "oddeven" "oddeven" 2 4;
+ .timescale 0 0;
+    .port_info 0 /INPUT 8 "A";
+    .port_info 1 /INPUT 1 "B";
+    .port_info 2 /OUTPUT 4 "C";
+o0x7f1072580018 .functor BUFZ 8, C4<zzzzzzzz>; HiZ drive
+v0x55db60fe8710_0 .net "A", 7 0, o0x7f1072580018;  0 drivers
+o0x7f1072580048 .functor BUFZ 1, C4<z>; HiZ drive
+v0x55db61032ab0_0 .net "B", 0 0, o0x7f1072580048;  0 drivers
+o0x7f1072580078 .functor BUFZ 4, C4<zzzz>; HiZ drive
+v0x55db61032b70_0 .net "C", 3 0, o0x7f1072580078;  0 drivers
+v0x55db61032c30_0 .net "Y", 0 0, L_0x55db61034530;  1 drivers
+v0x55db61032cf0_0 .net *"_ivl_1", 0 0, L_0x55db610337f0;  1 drivers
+v0x55db61032e20_0 .net *"_ivl_11", 0 0, L_0x55db61033db0;  1 drivers
+v0x55db61032f00_0 .net *"_ivl_13", 0 0, L_0x55db61033e90;  1 drivers
+v0x55db61032fe0_0 .net *"_ivl_15", 0 0, L_0x55db61033f30;  1 drivers
+v0x55db610330c0_0 .net *"_ivl_17", 0 0, L_0x55db61034020;  1 drivers
+v0x55db61033230_0 .net *"_ivl_18", 3 0, L_0x55db610341d0;  1 drivers
+v0x55db61033310_0 .net *"_ivl_20", 3 0, L_0x55db61034440;  1 drivers
+v0x55db610333f0_0 .net *"_ivl_3", 0 0, L_0x55db610338c0;  1 drivers
+v0x55db610334d0_0 .net *"_ivl_5", 0 0, L_0x55db61033990;  1 drivers
+v0x55db610335b0_0 .net *"_ivl_7", 0 0, L_0x55db61033a30;  1 drivers
+v0x55db61033690_0 .net *"_ivl_8", 3 0, L_0x55db61033bc0;  1 drivers
+L_0x55db610337f0 .part o0x7f1072580018, 6, 1;
+L_0x55db610338c0 .part o0x7f1072580018, 4, 1;
+L_0x55db61033990 .part o0x7f1072580018, 2, 1;
+L_0x55db61033a30 .part o0x7f1072580018, 0, 1;
+L_0x55db61033bc0 .concat [ 1 1 1 1], L_0x55db61033a30, L_0x55db61033990, L_0x55db610338c0, L_0x55db610337f0;
+L_0x55db61033db0 .part o0x7f1072580018, 7, 1;
+L_0x55db61033e90 .part o0x7f1072580018, 5, 1;
+L_0x55db61033f30 .part o0x7f1072580018, 3, 1;
+L_0x55db61034020 .part o0x7f1072580018, 1, 1;
+L_0x55db610341d0 .concat [ 1 1 1 1], L_0x55db61034020, L_0x55db61033f30, L_0x55db61033e90, L_0x55db61033db0;
+L_0x55db61034440 .functor MUXZ 4, L_0x55db610341d0, L_0x55db61033bc0, o0x7f1072580048, C4<>;
+L_0x55db61034530 .part L_0x55db61034440, 0, 1;
+# The file index is used to find the file name in the following table.
+:file_names 3;
+    "N/A";
+    "<interactive>";
+    "oddeven.v";

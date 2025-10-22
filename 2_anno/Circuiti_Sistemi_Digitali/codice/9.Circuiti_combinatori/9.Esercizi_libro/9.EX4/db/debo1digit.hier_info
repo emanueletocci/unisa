@@ -1,0 +1,19 @@
+|debo1digit
+A[0] => Decoder0.IN3
+A[1] => Decoder0.IN2
+A[2] => Decoder0.IN1
+A[3] => Decoder0.IN0
+L[0] <= WideOr6.DB_MAX_OUTPUT_PORT_TYPE
+L[1] <= WideOr5.DB_MAX_OUTPUT_PORT_TYPE
+L[2] <= WideOr4.DB_MAX_OUTPUT_PORT_TYPE
+L[3] <= WideOr3.DB_MAX_OUTPUT_PORT_TYPE
+L[4] <= WideOr2.DB_MAX_OUTPUT_PORT_TYPE
+L[5] <= WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+L[6] <= WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+H <= <VCC>
+Dig[0] <= <GND>
+Dig[1] <= <VCC>
+Dig[2] <= <VCC>
+Dig[3] <= <VCC>
+
+
