@@ -41,7 +41,7 @@ Hai materiale utile o vuoi migliorare i contenuti? Ogni contributo è ben accett
 
 Se questo progetto ti è stato utile, **lascia una ⭐️ alla repository** per supportarlo!  
 
-<div style="width:100%;height:0;padding-bottom:58%;position:relative;"><iframe src="https://giphy.com/embed/CY3A9zOlZR8uhFbeok" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/TOEIAnimationUK-goku-dragon-ball-super-ultra-instinct-CY3A9zOlZR8uhFbeok">via GIPHY</a></p>
+![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejdpZHV6amo3aWRteXJjbTU2NWF4c3djMjR6bGV2Z2xueDZwc2w4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CY3A9zOlZR8uhFbeok/giphy.gif)
 
 ---
 
