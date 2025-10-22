@@ -37,4 +37,12 @@ Hai materiale utile o vuoi migliorare i contenuti? Ogni contributo è ben accett
 
 ---
 
+## 💖 Ti sono stati utili questi appunti?
+
+Se questo progetto ti è stato utile, **lascia una ⭐️ alla repository** per supportarlo!  
+
+![Thank You GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
+---
+
 *Sentiti libero di utilizzare, modificare e distribuire questi materiali citando la fonte!*
