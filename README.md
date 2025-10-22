@@ -1,4 +1,4 @@
-# 🎓 UNISA - Ingegneria Informatica
+# 🎓 UNISA - Ingegneria Informatica (L-8)
 
 > Appunti, riassunti, esercizi e risorse del corso di laurea triennale in Ingegneria Informatica presso l'Università di Salerno
 
@@ -15,9 +15,9 @@ Questa repository **non è una fonte ufficiale**: sono un semplice studente che 
 
 La repository è organizzata in cartelle per ogni anno:
 
-- `1_anno/` &nbsp; Primi passi e basi dell'informatica
-- `2_anno/` &nbsp; Materie di approfondimento e laboratori
-- `3_anno/` &nbsp; Esami finali e tesina
+- `1_anno/` 
+- `2_anno/` 
+- `3_anno/` 
 
 ---
 
