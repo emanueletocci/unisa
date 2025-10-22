@@ -21,16 +21,6 @@ La repository è organizzata in cartelle per ogni anno:
 
 ---
 
-## 📌 Cosa trovi
-
-- Appunti delle lezioni ordinati per esame
-- Riassunti schematici per il ripasso veloce
-- Esercizi svolti e commentati
-- Schemi, approfondimenti e materiali condivisi
-- Suggerimenti per la preparazione agli esami
-
----
-
 ## 🤝 Contribuisci
 
 Hai materiale utile o vuoi migliorare i contenuti? Ogni contributo è ben accetto! Puoi:
