@@ -1,0 +1,4 @@
+file myfiles/file1.txt : la vispa
+file myfiles/file2.txt : sotto la panca
+file myfiles/input.dat : riga uno
+dir myfiles/myfiles2 1

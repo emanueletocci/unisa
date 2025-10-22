@@ -1,0 +1,58 @@
+#int vet1[]={1,7,2,5,8,3,6,4};
+#int riemp1=8
+
+#int main(){
+	#int i,n1,np;
+	#n1=riemp1;
+	#np=0;
+	#for(i=0;i<n1;i++)
+		#if(vet1[i]%2==0)
+			#np=np+1;
+		#}
+	#printf("Numero pari: ");
+	#printf("%d",np);
+	
+	#printf("\n");
+	#exit(0);
+#}
+
+#$t0=i
+#t1=n1
+#$t2=np
+#$t3=riemp
+#t4=&vet
+#t5 contiene l'i-esimo valore del vettore
+#t6 contiene il risultato dell'operazione di modulo
+
+	 .data
+vet:	 .word 7,5,-2,4
+riemp1:	 .word 8
+print:   .asciiz "Numero pari: "
+newline: .asciiz "\n"
+
+	.text
+	move $t1, $t3		#n1=riemp1
+	li $t2, 0		#np=0
+	li $t0,0		#i=0
+for: 	bge $t0, $t1, endfor
+	 
+	la $t4, vet
+	lw $t5, ($t4)		#assegno al registro $t5 il valore contenuto all'indirizzo contenuto in $t4
+	andi $t6, $t5, 1	#vet1[i]%2
+	bnez $t5, endif		#
+	add $t2, $t2, 1
+endif:
+	j for
+endfor:
+	li $v0, 4 		#print_string
+	la $a0, print		#printf("Numero Pari");
+	syscall
+	
+	li $v0, 1 		#print_string
+	move $a0, $t2		
+	syscall			#printf ("%d",np)
+	
+	li $v0, 4 		#print_string
+	la $a0, newline		#printf("Numero Pari");
+	syscall
+	
